@@ -4,9 +4,14 @@ public class Program{
 
     public static void Main(String[] args)
     {
-        KodeBuah.NamaBuah searchBuah = KodeBuah.NamaBuah.Apel;
+        //KodeBuah
+        //KodeBuah.NamaBuah searchBuah = KodeBuah.NamaBuah.Apel;
 
-        Console.WriteLine(KodeBuah.GetKodeBuah(searchBuah));
+        //Console.WriteLine(KodeBuah.GetKodeBuah(searchBuah));
+
+        
+        //PosisiKarakterGame
+        PosisiKarakterGame mygame = new PosisiKarakterGame();
 
     }
 
